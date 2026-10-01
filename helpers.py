@@ -1,0 +1,2 @@
+# This is a helper file for the main application. It contains utility functions that are used throughout the codebase.
+# To use in other files, simply run 'import helpers' and then call the functions as needed.
